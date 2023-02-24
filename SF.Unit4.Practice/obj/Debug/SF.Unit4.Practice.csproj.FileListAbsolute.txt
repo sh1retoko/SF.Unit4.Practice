@@ -1,0 +1,8 @@
+E:\project\SF.Work\SF.Unit4.Practice\bin\Debug\SF.Unit4.Practice.exe.config
+E:\project\SF.Work\SF.Unit4.Practice\bin\Debug\SF.Unit4.Practice.exe
+E:\project\SF.Work\SF.Unit4.Practice\bin\Debug\SF.Unit4.Practice.pdb
+E:\project\SF.Work\SF.Unit4.Practice\obj\Debug\SF.Unit4.Practice.csproj.AssemblyReference.cache
+E:\project\SF.Work\SF.Unit4.Practice\obj\Debug\SF.Unit4.Practice.csproj.SuggestedBindingRedirects.cache
+E:\project\SF.Work\SF.Unit4.Practice\obj\Debug\SF.Unit4.Practice.csproj.CoreCompileInputs.cache
+E:\project\SF.Work\SF.Unit4.Practice\obj\Debug\SF.Unit4.Practice.exe
+E:\project\SF.Work\SF.Unit4.Practice\obj\Debug\SF.Unit4.Practice.pdb
